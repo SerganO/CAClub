@@ -1,0 +1,4748 @@
+fileFormatVersion: 2
+guid: 70792df6e52aed6409512dc5fe469ed4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8654335963679173452
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+  - first:
+      213: 1371983414995196439
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+  - first:
+      213: -5333613443576087520
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+  - first:
+      213: 7712698258594762124
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+  - first:
+      213: -54065028041015402
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+  - first:
+      213: 3507282856729841287
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+  - first:
+      213: -3307557732665170835
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+  - first:
+      213: -5282991672504603943
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+  - first:
+      213: 4894812512510140078
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+  - first:
+      213: -8469007208526435533
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+  - first:
+      213: -4685821706487749668
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+  - first:
+      213: -1163063040098333841
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+  - first:
+      213: 1973619006717655874
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+  - first:
+      213: 5926475266608105188
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+  - first:
+      213: -6114395445752705240
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+  - first:
+      213: -1922937507582451829
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+  - first:
+      213: -8140020882517835539
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+  - first:
+      213: 4112448436562922008
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+  - first:
+      213: -1180502171569940523
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+  - first:
+      213: 6680713232518636562
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+  - first:
+      213: 6789315722256110184
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+  - first:
+      213: -5814479628637918404
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_21"
+  - first:
+      213: 2846117874027707206
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_22"
+  - first:
+      213: 6948834140927627807
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_23"
+  - first:
+      213: 3775239096011117665
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_24"
+  - first:
+      213: -8892989939081697576
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_25"
+  - first:
+      213: -764569391690588604
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_26"
+  - first:
+      213: -6017918587028116676
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_27"
+  - first:
+      213: -5545916325448624839
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_28"
+  - first:
+      213: -1343662157950948153
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_29"
+  - first:
+      213: -8356544670989488910
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_30"
+  - first:
+      213: 3117019016889393969
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_31"
+  - first:
+      213: -6254582126485310986
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_32"
+  - first:
+      213: 324655106032877505
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_33"
+  - first:
+      213: -4097022867159038918
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_34"
+  - first:
+      213: 1821832625251543477
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_35"
+  - first:
+      213: 7975271462054193271
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_36"
+  - first:
+      213: -2938032673719361752
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_37"
+  - first:
+      213: -5303368268839618468
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_38"
+  - first:
+      213: -5669239951441252829
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_39"
+  - first:
+      213: -6341877967504217190
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_40"
+  - first:
+      213: -3510105239880512688
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_41"
+  - first:
+      213: 1017159770979216741
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_42"
+  - first:
+      213: 4279191642664806253
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_43"
+  - first:
+      213: -4695406816101647918
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_44"
+  - first:
+      213: -1906001290828985645
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_45"
+  - first:
+      213: -5422893053869834503
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_46"
+  - first:
+      213: -4781035680086577801
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_47"
+  - first:
+      213: -56575253791098542
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_48"
+  - first:
+      213: 1705339800165691748
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_49"
+  - first:
+      213: 7438366695214340522
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_50"
+  - first:
+      213: 9193359395641866190
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_51"
+  - first:
+      213: -4726885808334722333
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_52"
+  - first:
+      213: 6562281505189013900
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_53"
+  - first:
+      213: 5928671278596560633
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_54"
+  - first:
+      213: 1921184412287401239
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_55"
+  - first:
+      213: -5510610619864824844
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_56"
+  - first:
+      213: -4958272953246036971
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_57"
+  - first:
+      213: 6074624046276521756
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_58"
+  - first:
+      213: 2595241353679521470
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_59"
+  - first:
+      213: 1928982934557443549
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_60"
+  - first:
+      213: 7622619038910739941
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_61"
+  - first:
+      213: -5895656284139986331
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_62"
+  - first:
+      213: -3985606167385550228
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_63"
+  - first:
+      213: 6484845848465762038
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_64"
+  - first:
+      213: -8518558772748999617
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_65"
+  - first:
+      213: -5348804684047248480
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_66"
+  - first:
+      213: 5621378214254727573
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_67"
+  - first:
+      213: 1250477772206314917
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_68"
+  - first:
+      213: 8400398478871873283
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_69"
+  - first:
+      213: 5242766281899434308
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_70"
+  - first:
+      213: -7886027176233117666
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_71"
+  - first:
+      213: 1282702492364787488
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_72"
+  - first:
+      213: -5021265348261601120
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_73"
+  - first:
+      213: 4155920538783966920
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_74"
+  - first:
+      213: 840589201999591785
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_75"
+  - first:
+      213: -7273413232839287374
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_76"
+  - first:
+      213: -1075287139680112456
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_77"
+  - first:
+      213: -1479539122556696785
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_78"
+  - first:
+      213: -1584425507617785497
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_79"
+  - first:
+      213: -7524698651135554720
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_80"
+  - first:
+      213: 822507463330057064
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_81"
+  - first:
+      213: -3594222869002988716
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_82"
+  - first:
+      213: -166378386671754276
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_83"
+  - first:
+      213: -851862194995525653
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_84"
+  - first:
+      213: 7227761826410533473
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_85"
+  - first:
+      213: -1475495131156689460
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_86"
+  - first:
+      213: 7288063203145766426
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_87"
+  - first:
+      213: 3925405300989398625
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_88"
+  - first:
+      213: -7013840730511796345
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_89"
+  - first:
+      213: -1686514661050936057
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_90"
+  - first:
+      213: 1028850334156934317
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_91"
+  - first:
+      213: -8416831250402860014
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_92"
+  - first:
+      213: -2355590720944182548
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_93"
+  - first:
+      213: -6717706741644528115
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_94"
+  - first:
+      213: -2476777121839781613
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_95"
+  - first:
+      213: -5482057559358907969
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_96"
+  - first:
+      213: 7042431139931663918
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_97"
+  - first:
+      213: -2607072094514837462
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_98"
+  - first:
+      213: -4220535062511823159
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_99"
+  - first:
+      213: 3674892039603641326
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_100"
+  - first:
+      213: -8718959477923839106
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_101"
+  - first:
+      213: 2989457062815969304
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_102"
+  - first:
+      213: -73236210008999216
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_103"
+  - first:
+      213: 2424530297481359618
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_104"
+  - first:
+      213: 5408537544989387029
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_105"
+  - first:
+      213: 227535089237913817
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_106"
+  - first:
+      213: -7526273677524018063
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_107"
+  - first:
+      213: 1978697349993463099
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_108"
+  - first:
+      213: 8944072980990734851
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_109"
+  - first:
+      213: -5285290451018361740
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_110"
+  - first:
+      213: -5022220776129489004
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_111"
+  - first:
+      213: 3079869229441998941
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_112"
+  - first:
+      213: -6974741958378610330
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_113"
+  - first:
+      213: 8165748818795185679
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_114"
+  - first:
+      213: 8488119138647550928
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_115"
+  - first:
+      213: 6605190942392589267
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_116"
+  - first:
+      213: 4166067843638521555
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_117"
+  - first:
+      213: 5170072536515697450
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_118"
+  - first:
+      213: -6189132484870950437
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_119"
+  - first:
+      213: 7263289323727920334
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_120"
+  - first:
+      213: -8124655440046972738
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_121"
+  - first:
+      213: -8406812721775815067
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_122"
+  - first:
+      213: 1263630668282561783
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_123"
+  - first:
+      213: -7952238980912818939
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_124"
+  - first:
+      213: -1888369693207309630
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_125"
+  - first:
+      213: -1083911726404544117
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_126"
+  - first:
+      213: 3925412957613392058
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_127"
+  - first:
+      213: 7621722170069211905
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_128"
+  - first:
+      213: -173332045751216719
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_129"
+  - first:
+      213: -8110076068688573378
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_130"
+  - first:
+      213: 7625200299293063958
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_131"
+  - first:
+      213: -4429734606433845107
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_132"
+  - first:
+      213: -6969007415220081775
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_133"
+  - first:
+      213: 879802115822688012
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_134"
+  - first:
+      213: -2269726727802499900
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_135"
+  - first:
+      213: -5050935063760305705
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_136"
+  - first:
+      213: 750490019028815375
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_137"
+  - first:
+      213: 5828469723583833740
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_138"
+  - first:
+      213: 1219354748682522025
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_139"
+  - first:
+      213: -8388058616154522460
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_140"
+  - first:
+      213: -9123672175179245492
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_141"
+  - first:
+      213: -7200923523925682252
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_142"
+  - first:
+      213: 1860023738402719655
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_143"
+  - first:
+      213: -1057825021943799187
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_144"
+  - first:
+      213: -4739493655230229997
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_145"
+  - first:
+      213: -7533648613236847780
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_146"
+  - first:
+      213: 4507823896951913628
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_147"
+  - first:
+      213: -485255239772607820
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_148"
+  - first:
+      213: -6729055268405524961
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_149"
+  - first:
+      213: 7268703108215605765
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_150"
+  - first:
+      213: -3887495546975471814
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_151"
+  - first:
+      213: 7557162453713776005
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_152"
+  - first:
+      213: 7626424690004469917
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_153"
+  - first:
+      213: -4646653857415816265
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_154"
+  - first:
+      213: 6254348034393193164
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_155"
+  - first:
+      213: -3382460305659994900
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_156"
+  - first:
+      213: 5152161967617132088
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_157"
+  - first:
+      213: 2991464290781986124
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_158"
+  - first:
+      213: 2546429436239418169
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_159"
+  - first:
+      213: -2469215631203367522
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_160"
+  - first:
+      213: 1828159895267254706
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_161"
+  - first:
+      213: -4248674511561291279
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_162"
+  - first:
+      213: -7591668588994313014
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_163"
+  - first:
+      213: 855707804920162036
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_164"
+  - first:
+      213: 8698628755932843450
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_165"
+  - first:
+      213: -1261244616859849452
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_166"
+  - first:
+      213: -1504511943942306464
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_167"
+  - first:
+      213: -4180252704900487312
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_168"
+  - first:
+      213: 2119212629396905062
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_169"
+  - first:
+      213: 8125167401003484011
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_170"
+  - first:
+      213: 7209153139073842458
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_171"
+  - first:
+      213: -6290388265091760290
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_172"
+  - first:
+      213: -8425011909330779356
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_173"
+  - first:
+      213: 3421200967291568205
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_174"
+  - first:
+      213: -5355966019406683950
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_175"
+  - first:
+      213: -8868537886602565312
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_176"
+  - first:
+      213: -4763639000886370078
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_177"
+  - first:
+      213: -7947767730997720183
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_178"
+  - first:
+      213: 4917354318120270452
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_179"
+  - first:
+      213: -1645543486765708849
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_180"
+  - first:
+      213: 5844618303976560224
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_181"
+  - first:
+      213: -728795539558485401
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_182"
+  - first:
+      213: -227111805012877996
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_183"
+  - first:
+      213: -530052034729650043
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_184"
+  - first:
+      213: 232944364481405330
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_185"
+  - first:
+      213: 7900574687301884426
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_186"
+  - first:
+      213: 3533742557705526376
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_187"
+  - first:
+      213: -2535079088777618654
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_188"
+  - first:
+      213: 8780178607424812039
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_189"
+  - first:
+      213: -7474657438462253336
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_190"
+  - first:
+      213: -802213156165379272
+    second: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_191"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 6
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4d30e2b4f95e780800000000000000
+      internalID: -8654335963679173452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a148895a34a0310800000000000000
+      internalID: 1371983414995196439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c366ee4d23bf5b0800000000000000
+      internalID: -5333613443576087520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d805bd332090b60800000000000000
+      internalID: 7712698258594762124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff7d8b42cef3ff0800000000000000
+      internalID: -54065028041015402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e03320d2f5ca030800000000000000
+      internalID: 3507282856729841287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64656e24c13912d0800000000000000
+      internalID: -3307557732665170835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da2409701b0fa6b0800000000000000
+      internalID: -5282991672504603943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaedd4adb0edde340800000000000000
+      internalID: 4894812512510140078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b2f8780da087a80800000000000000
+      internalID: -8469007208526435533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3abf70cfd98feb0800000000000000
+      internalID: -4685821706487749668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b8d83c358fbdfe0800000000000000
+      internalID: -1163063040098333841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b7d59a704b36b10800000000000000
+      internalID: 1973619006717655874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6805cead11f3250800000000000000
+      internalID: 5926475266608105188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fc4afccbd452ba0800000000000000
+      internalID: -6114395445752705240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 528
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fd547668a5055e0800000000000000
+      internalID: -1922937507582451829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de043419226d80f80800000000000000
+      internalID: -8140020882517835539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a817a701a521930800000000000000
+      internalID: 4112448436562922008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d71ffe87830e9fe0800000000000000
+      internalID: -1180502171569940523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214668ef949a6bc50800000000000000
+      internalID: 6680713232518636562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862dc059dae783e50800000000000000
+      internalID: 6789315722256110184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_21"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3baa4d8591de4fa0800000000000000
+      internalID: -5814479628637918404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_22"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bbf4680217f7720800000000000000
+      internalID: 2846117874027707206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_23"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12191da5d73f6060800000000000000
+      internalID: 6948834140927627807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_24"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164d8eba4f7546430800000000000000
+      internalID: 3775239096011117665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_25"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6a9e974c0c59480800000000000000
+      internalID: -8892989939081697576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_26"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e552a6034b365f0800000000000000
+      internalID: -764569391690588604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_27"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be7fcedee0c7ca0800000000000000
+      internalID: -6017918587028116676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_28"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935589b4c72f803b0800000000000000
+      internalID: -5545916325448624839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_29"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce239e26a5a5de0800000000000000
+      internalID: -1343662157950948153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_30"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcecf785e6970c80800000000000000
+      internalID: -8356544670989488910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_31"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13364dbf740e14b20800000000000000
+      internalID: 3117019016889393969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1f554b1b24339a0800000000000000
+      internalID: -6254582126485310986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_33"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf3b9d4918618400800000000000000
+      internalID: 324655106032877505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_34"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a344556c8637427c0800000000000000
+      internalID: -4097022867159038918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_35"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9e554ce13784910800000000000000
+      internalID: 1821832625251543477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_36"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778ec03d32bddae60800000000000000
+      internalID: 7975271462054193271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_37"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f577089d20a37d0800000000000000
+      internalID: -2938032673719361752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_38"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c587cbe68a6a666b0800000000000000
+      internalID: -5303368268839618468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_39"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e24e31d40d251b0800000000000000
+      internalID: -5669239951441252829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_40"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9be80ad69f1df7a0800000000000000
+      internalID: -6341877967504217190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_41"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b4fa4b1e9994fc0800000000000000
+      internalID: -3510105239880512688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_42"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56da80d2c6dad1e00800000000000000
+      internalID: 1017159770979216741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_43"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d672bda702eb26b30800000000000000
+      internalID: 4279191642664806253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_44"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9305ac06096deb0800000000000000
+      internalID: -4695406816101647918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_45"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac3b6ace58c85e0800000000000000
+      internalID: -1906001290828985645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_46"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feb72dcf730eb4b0800000000000000
+      internalID: -5422893053869834503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_47"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 432
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77da8f5416956adb0800000000000000
+      internalID: -4781035680086577801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25934be3b11073ff0800000000000000
+      internalID: -56575253791098542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_49"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461363253859aa710800000000000000
+      internalID: 1705339800165691748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_50"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9d85169136a3760800000000000000
+      internalID: 7438366695214340522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_51"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7bbbd69af559f70800000000000000
+      internalID: 9193359395641866190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_52"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaaf54c66ab66eb0800000000000000
+      internalID: -4726885808334722333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_53"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8928e0b248e11b50800000000000000
+      internalID: 6562281505189013900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_54"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f61fcecd1fd64250800000000000000
+      internalID: 5928671278596560633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_55"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d786a4b0b69aa10800000000000000
+      internalID: 1921184412287401239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_56"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3467376d06683b0800000000000000
+      internalID: -5510610619864824844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_57"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cc752e40da03bb0800000000000000
+      internalID: -4958272953246036971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_58"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fab56a2666d4450800000000000000
+      internalID: 6074624046276521756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_59"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6c870d246240420800000000000000
+      internalID: 2595241353679521470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_60"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5461042cf15ca10800000000000000
+      internalID: 1928982934557443549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_61"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5776821abf8c960800000000000000
+      internalID: 7622619038910739941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_62"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562690a98db6e2ea0800000000000000
+      internalID: -5895656284139986331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_63"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 384
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62d062be4840b8c0800000000000000
+      internalID: -3985606167385550228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_64"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e7f4e0fccef950800000000000000
+      internalID: 6484845848465762038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_65"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f342200fdeff7c980800000000000000
+      internalID: -8518558772748999617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_66"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a31b62aa7a35c5b0800000000000000
+      internalID: -5348804684047248480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_67"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d5c8d3b5230e40800000000000000
+      internalID: 5621378214254727573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_68"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a511e398e69a5110800000000000000
+      internalID: 1250477772206314917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_69"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c3e8c8e5349470800000000000000
+      internalID: 8400398478871873283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_70"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441e201f72c02c840800000000000000
+      internalID: 5242766281899434308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_71"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e185c8fa0143f8290800000000000000
+      internalID: -7886027176233117666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_72"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f49e9ee131dc110800000000000000
+      internalID: 1282702492364787488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_73"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0a3e105c1e05ab0800000000000000
+      internalID: -5021265348261601120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_74"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6e7f406bbcca930800000000000000
+      internalID: 4155920538783966920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_75"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f633fc6f5aab00800000000000000
+      internalID: 840589201999591785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_76"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd1dff6335af0b90800000000000000
+      internalID: -7273413232839287374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_77"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b032d72b00d311f0800000000000000
+      internalID: -1075287139680112456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_78"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2707b8c10f977be0800000000000000
+      internalID: -1479539122556696785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_79"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 769bf5d356df20ae0800000000000000
+      internalID: -1584425507617785497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_80"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b4431c176e29790800000000000000
+      internalID: -7524698651135554720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_81"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b45e81e222a6b00800000000000000
+      internalID: 822507463330057064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_82"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453dd79f751ce1ec0800000000000000
+      internalID: -3594222869002988716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_83"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a0242db7e0bdf0800000000000000
+      internalID: -166378386671754276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_84"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be705b5d8d39d24f0800000000000000
+      internalID: -851862194995525653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_85"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1621458361b2e4460800000000000000
+      internalID: 7227761826410533473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_86"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4697eefcf58be0800000000000000
+      internalID: -1475495131156689460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_87"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1659149ed6642560800000000000000
+      internalID: 7288063203145766426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_88"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e88e4d257d97630800000000000000
+      internalID: 3925405300989398625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_89"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7879daa3405d9ae90800000000000000
+      internalID: -7013840730511796345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_90"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705129fe9db4898e0800000000000000
+      internalID: -1686514661050936057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_91"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac47768de5374e00800000000000000
+      internalID: 1028850334156934317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_92"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214a4517298613b80800000000000000
+      internalID: -8416831250402860014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_93"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea6ae148b24f4fd0800000000000000
+      internalID: -2355590720944182548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_94"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06f7077f49e5c2a0800000000000000
+      internalID: -6717706741644528115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_95"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319ece88458b0add0800000000000000
+      internalID: -2476777121839781613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_96"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9da28e1b1dbe3b0800000000000000
+      internalID: -5482057559358907969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_97"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ea6c23fcdbbb160800000000000000
+      internalID: 7042431139931663918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_98"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a280c9e2eb1d1dbd0800000000000000
+      internalID: -2607072094514837462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_99"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6d6e4d8b5ad65c0800000000000000
+      internalID: -4220535062511823159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_100"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb5c70f6d6dff230800000000000000
+      internalID: 3674892039603641326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_101"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e730353cc88000780800000000000000
+      internalID: -8718959477923839106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_102"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810bd6c1c5fac7920800000000000000
+      internalID: 2989457062815969304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_103"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dab7b51e00dbfef0800000000000000
+      internalID: -73236210008999216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_104"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2017c88b579a5a120800000000000000
+      internalID: 2424530297481359618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_105"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519a473dd3cfe0b40800000000000000
+      internalID: 5408537544989387029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_106"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d076f745fd582300800000000000000
+      internalID: 227535089237913817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_107"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cdec857fd4d8790800000000000000
+      internalID: -7526273677524018063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_108"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dfd5891ceb57b10800000000000000
+      internalID: 1978697349993463099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_109"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3023f1d0dfabf1c70800000000000000
+      internalID: 8944072980990734851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_110"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47459446650e6a6b0800000000000000
+      internalID: -5285290451018361740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_111"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497173f10dc7d4ab0800000000000000
+      internalID: -5022220776129489004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_112"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50eb8f0fb4edba20800000000000000
+      internalID: 3079869229441998941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_113"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661a4d2842db43f90800000000000000
+      internalID: -6974741958378610330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_114"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f064a556941925170800000000000000
+      internalID: 8165748818795185679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_115"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db2846726bdbc570800000000000000
+      internalID: 8488119138647550928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_116"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db10f29a2a5aab50800000000000000
+      internalID: 6605190942392589267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_117"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de604a81a8d0d930800000000000000
+      internalID: 4166067843638521555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_118"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b550a6499cfb740800000000000000
+      internalID: 5170072536515697450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_119"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1bf63ebc8cb1aa0800000000000000
+      internalID: -6189132484870950437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_120"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc90b948236cc460800000000000000
+      internalID: 7263289323727920334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_121"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb02e8d6cec6f3f80800000000000000
+      internalID: -8124655440046972738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_122"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5665159ee50055b80800000000000000
+      internalID: -8406812721775815067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_123"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f48546d561598110800000000000000
+      internalID: 1263630668282561783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_124"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5055da597c8f3a190800000000000000
+      internalID: -7952238980912818939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_125"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2d3cfd4c92bc5e0800000000000000
+      internalID: -1888369693207309630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_126"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89d6c3170c25f0f0800000000000000
+      internalID: -1083911726404544117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_127"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab00347894ed97630800000000000000
+      internalID: 3925412957613392058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_128"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bd1bb9eebc5c960800000000000000
+      internalID: 7621722170069211905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_129"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b59ec83c63389df0800000000000000
+      internalID: -173332045751216719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_130"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ccb68d8c8337f80800000000000000
+      internalID: -8110076068688573378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_131"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bb09ca54722d960800000000000000
+      internalID: 7625200299293063958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_132"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80814e58db6682c0800000000000000
+      internalID: -4429734606433845107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_133"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b6eb2edac194f90800000000000000
+      internalID: -6969007415220081775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_134"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c079f3aec5fa53c00800000000000000
+      internalID: 879802115822688012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_135"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc4f1c019f4080e0800000000000000
+      internalID: -2269726727802499900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_136"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1800d025977e9b0800000000000000
+      internalID: -5050935063760305705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_137"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e40bf22b64a6a00800000000000000
+      internalID: 750490019028815375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_138"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8665524552e2e050800000000000000
+      internalID: 5828469723583833740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_139"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad486afea40ce010800000000000000
+      internalID: 1219354748682522025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_140"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac74f46121a79b80800000000000000
+      internalID: -8388058616154522460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_141"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c485357fe74326180800000000000000
+      internalID: -9123672175179245492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_142"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d7a5053e211c90800000000000000
+      internalID: -7200923523925682252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_143"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7c9493cb120d910800000000000000
+      internalID: 1860023738402719655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_144"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6225844fb9d151f0800000000000000
+      internalID: -1057825021943799187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_145"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312d8c8a1afe93eb0800000000000000
+      internalID: -4739493655230229997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_146"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4761508a137790800000000000000
+      internalID: -7533648613236847780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_147"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cf5d763f10f8e30800000000000000
+      internalID: 4507823896951913628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_148"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bae4ff2ee60449f0800000000000000
+      internalID: -485255239772607820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_149"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16c7bca2e79d92a0800000000000000
+      internalID: -6729055268405524961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_150"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a08f637fe9fd460800000000000000
+      internalID: 7268703108215605765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_151"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a373d989567dc0ac0800000000000000
+      internalID: -3887495546975471814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_152"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d678b463f60e860800000000000000
+      internalID: 7557162453713776005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_153"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d982cf959d086d960800000000000000
+      internalID: 7626424690004469917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_154"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb188a8fe4c38fb0800000000000000
+      internalID: -4646653857415816265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_155"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca3bab7668ebc650800000000000000
+      internalID: 6254348034393193164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_156"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecd646e5461f01d0800000000000000
+      internalID: -3382460305659994900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_157"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c8112308208740800000000000000
+      internalID: 5152161967617132088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_158"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d735a4ce0d38920800000000000000
+      internalID: 2991464290781986124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_159"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93316a8a41cb65320800000000000000
+      internalID: 2546429436239418169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_160"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95084447759bbdd0800000000000000
+      internalID: -2469215631203367522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_161"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1250e1dbdee5910800000000000000
+      internalID: 1828159895267254706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_162"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9022cca0da905c0800000000000000
+      internalID: -4248674511561291279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_163"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c08404a9f4a690800000000000000
+      internalID: -7591668588994313014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_164"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6abcff6b510eb00800000000000000
+      internalID: 855707804920162036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_165"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd006624ccb7b870800000000000000
+      internalID: 8698628755932843450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_166"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41de13d04b82f7ee0800000000000000
+      internalID: -1261244616859849452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_167"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0658cf4bb56ee1be0800000000000000
+      internalID: -1504511943942306464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_168"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0776a051052ccf5c0800000000000000
+      internalID: -4180252704900487312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_169"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c59ba88a4f86d10800000000000000
+      internalID: 2119212629396905062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_170"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b638565c3b462c070800000000000000
+      internalID: 8125167401003484011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_171"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d73e1959e0c0460800000000000000
+      internalID: 7209153139073842458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_172"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f7be7633d04b8a0800000000000000
+      internalID: -6290388265091760290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_173"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42347eb5e48541b80800000000000000
+      internalID: -8425011909330779356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_174"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4003a8472c8a7f20800000000000000
+      internalID: 3421200967291568205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_175"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0a3305849cba5b0800000000000000
+      internalID: -5355966019406683950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_176"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e5f797cf9ce480800000000000000
+      internalID: -8868537886602565312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_177"
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0a8f9419724edb0800000000000000
+      internalID: -4763639000886370078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_178"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b81949b5bd3b190800000000000000
+      internalID: -7947767730997720183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_179"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aba46f2b3fd3440800000000000000
+      internalID: 4917354318120270452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_180"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc94fd0daead929e0800000000000000
+      internalID: -1645543486765708849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_181"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066d440a1614c1150800000000000000
+      internalID: 5844618303976560224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_182"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7623abe615cc2e5f0800000000000000
+      internalID: -728795539558485401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_183"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd8e1440329dcf0800000000000000
+      internalID: -227111805012877996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_184"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58857759b70e4a8f0800000000000000
+      internalID: -530052034729650043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_185"
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291e7515aa59b3300800000000000000
+      internalID: 232944364481405330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_186"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a521ea1da74ad60800000000000000
+      internalID: 7900574687301884426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_187"
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cd7b732206a0130800000000000000
+      internalID: 3533742557705526376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_188"
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b93eb000791dcd0800000000000000
+      internalID: -2535079088777618654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_189"
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7043a009ce579d970800000000000000
+      internalID: 8780178607424812039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_190"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6e9b289aea44890800000000000000
+      internalID: -7474657438462253336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "33076_VXACEtoMV_World_A2_png-par-Kadokawa \u2014 \u043A\u043E\u043F\u0438\u044F_191"
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b1e908267fdd4f0800000000000000
+      internalID: -802213156165379272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
