@@ -27,21 +27,21 @@ public class StartHandler : SceneHandler
             TransitionMaster.needShowEndGameMessage = false;
         }
 
-        if(PlayerPrefs.GetInt("MainTip") != 1)
+        /*if(PlayerPrefs.GetInt("MainTip") != 1)
         {
             Tips.ShowMainTip();
             PlayerPrefs.SetInt("MainTip", 1);
-        }
+        }*/
 
     }
 
     public void ShowProfile()
     {
-        if (PlayerPrefs.GetInt("ProfileTip") != 1)
+        /*if (PlayerPrefs.GetInt("ProfileTip") != 1)
         {
             Tips.ShowProfileTip();
             PlayerPrefs.SetInt("ProfileTip", 1);
-        }
+        }*/
     }
 
     public void Quit()

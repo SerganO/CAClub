@@ -109,12 +109,12 @@ public class LevelSceneHandler : SceneHandler
     void OnDie()
     {
         Time.timeScale = 0;
-        if (!GlobalUserData.ActiveUser.ShowLoseTip)
+        /*if (!GlobalUserData.ActiveUser.ShowLoseTip)
         {
             Tips.ShowLoseTip();
             GlobalUserData.ActiveUser.ShowLoseTip = true;
             SaveDataToJSON.IsChanged = true;
-        }
+        }*/
         ControlGameObject.SetActive(false);
         MusicManager.instance.Stop();
         levelEndingUI.Fail();
@@ -126,12 +126,12 @@ public class LevelSceneHandler : SceneHandler
     void OnSuccess()
     {
         Time.timeScale = 0;
-        if (!GlobalUserData.ActiveUser.ShowWinTip)
+        /*if (!GlobalUserData.ActiveUser.ShowWinTip)
         {
             Tips.ShowWinTip();
             GlobalUserData.ActiveUser.ShowWinTip = true;
             SaveDataToJSON.IsChanged = true;
-        }
+        }*/
         SaveDataToJSON.IsChanged = true;
         ControlGameObject.SetActive(false);
         MusicManager.instance.Stop();
