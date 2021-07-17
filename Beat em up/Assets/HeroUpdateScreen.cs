@@ -12,8 +12,8 @@ public class HeroUpdateScreen : MonoBehaviour
 
     public Text NameLabel;
     public Text XPPointsCountLabel;
+    public Text XPPointsCountLabelAdd;
 
-    
 
 
     bool isFirstUpdate = true;
@@ -64,6 +64,7 @@ public class HeroUpdateScreen : MonoBehaviour
     public void UpdateXp()
     {
         XPPointsCountLabel.text = GlobalUserData.ActiveUser.XP.ToString();
+        XPPointsCountLabelAdd.text = GlobalUserData.ActiveUser.XP.ToString();
     }
 
     private void HeroList_IdChanged(HeroInfo info)

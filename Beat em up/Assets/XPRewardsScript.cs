@@ -12,6 +12,8 @@ public class XPRewardsScript : MonoBehaviour
 
     public HeroUpdateScreen UpdateScreen;
 
+    public GameObject circle;
+
     public int GivenXP = 1000;
 
     public string RewardedPlacementId = "rewardedVideo";
@@ -24,6 +26,7 @@ public class XPRewardsScript : MonoBehaviour
         }
         GetButton.onClick.AddListener(() => { GetButtonClick(); });
         UpdateUI();
+        ButtonSetEnable(false);
     }
 
     void UpdateXP()
@@ -36,8 +39,37 @@ public class XPRewardsScript : MonoBehaviour
         XPText.text = GivenXP.ToString();
     }
 
+    float tmp = 0;
+
+    private void Update()
+    {
+        if(tmp>0)
+        {
+            tmp -= Time.deltaTime;
+            ButtonSetEnable(false);
+            return;
+        }
+        ButtonSetEnable(!Advertisement.isShowing && Advertisement.IsReady());
+    }
+
+    void ButtonSetEnable(bool value)
+    {
+        GetButton.enabled = value;
+        if(value)
+        {
+            GetButton.GetComponent<Image>().color = new Color(1, 1, 1, 1);
+            circle.SetActive(false);
+        } else
+        {
+            GetButton.GetComponent<Image>().color = new Color(1, 1, 1, 0.5f);
+            circle.SetActive(true);
+        }
+
+    }
+
     void GetButtonClick()
     {
+        tmp = 3;
         if (!Advertisement.isShowing)
         {
             if (Advertisement.IsReady())
