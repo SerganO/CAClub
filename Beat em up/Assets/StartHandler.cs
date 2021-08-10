@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using System.IO;
 
+using UnityEngine.Advertisements;
+
 public class StartHandler : SceneHandler
 {
     public AudioClip background;
@@ -11,6 +13,14 @@ public class StartHandler : SceneHandler
     public SaveDataToJSON SaveData;
     public ProfilesSceneScript Profiles;
     public TipsPanelScript Tips;
+
+    private void Start()
+    {
+        if (Advertisement.isSupported)
+        {
+            Advertisement.Initialize("3952391", false);
+        }
+    }
 
     public override void FirstUpdate()
     {

@@ -75,6 +75,8 @@ public class ProfilesSceneScript : MonoBehaviour
             SaveDataToJSON.SaveProfile(profileName, new UserData(profileName));
             UpdateProfilesList();
             CreateListItem(profileName);
+            SaveDataToJSON.LoadUserDataFromFile(profileName + ".json");
+            handler.UpdateForCurrent();
             return true;
         }
         return false;
