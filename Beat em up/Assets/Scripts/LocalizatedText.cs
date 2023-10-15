@@ -22,7 +22,7 @@ public class LocalizatedText : MonoBehaviour
 
     private void Update()
     {
-        if (!isSetuped) return;
+        if (isSetuped) return;
         Setup();
     }
 

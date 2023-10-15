@@ -100,7 +100,7 @@ public class StartHandler : SceneHandler
 
     public void OpenTelegram()
     {
-        Application.OpenURL("https://t.me/com_red");
+        Application.OpenURL("https://t.me/com_red_gamedev");
     }
 
     public void OpenInstagram()
@@ -108,5 +108,9 @@ public class StartHandler : SceneHandler
         Application.OpenURL("https://instagram.com/com.red.gamedev");
     }
 
+    public void OpenLinktree()
+    {
+        Application.OpenURL("https://linktr.ee/com.red");
+    }
 
 }

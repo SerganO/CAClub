@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public static class LocalizationManager
@@ -24,15 +25,21 @@ public static class LocalizationManager
 
     public static void SetupLanguage(string id)
     {
+        var correctId = id;
         var language = languages.Find(x => x.languageCode == id);
+        if(language == null)
+        {
+            language = languages.First();
+            correctId = language.languageCode;
+        }
         if (language != null)
         {
 
-            currentLanguageId = id;
-            currentLanguageIndex = languages.FindIndex(x => x.languageCode == id);
+            currentLanguageId = correctId;
+            currentLanguageIndex = languages.FindIndex(x => x.languageCode == correctId);
 
             local = language;
-            PlayerPrefs.SetString("Language", id);
+            PlayerPrefs.SetString("Language", correctId);
             languageChanged?.Invoke();
         }
     }
@@ -53,7 +60,7 @@ public static class LocalizationManager
 
     static List<LocalizateSet> languages = new List<LocalizateSet>()
     {
-        new LocalizateSet()
+        /*new LocalizateSet()
     {
         languageCode = "ru",
         languageName = "Русский",
@@ -262,7 +269,7 @@ BottomInfoWin3 = "<color=orange><b>Иконка полученой части с
 TopInfoLose1 = "Экран поражения",
 BottomInfoLose1 = "<color=orange><b>Кнопка потверждения</b></color>\nНажмите, чтоб перейти к экрану выбора уровня планеты",
 
-    },
+    },*/
         new LocalizateSet()
     {
         languageCode = "ua",

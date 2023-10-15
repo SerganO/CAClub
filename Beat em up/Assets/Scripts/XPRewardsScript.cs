@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 using UnityEngine.Advertisements;
 
-public class XPRewardsScript : MonoBehaviour
+public class XPRewardsScript : MonoBehaviour, IUnityAdsShowListener
 {
     public Text XPText;
     public Button GetButton;
@@ -49,7 +49,7 @@ public class XPRewardsScript : MonoBehaviour
             ButtonSetEnable(false);
             return;
         }
-        ButtonSetEnable(!Advertisement.isShowing && Advertisement.IsReady());
+        ButtonSetEnable(!Advertisement.isShowing && Advertisement.isInitialized);
     }
 
     void ButtonSetEnable(bool value)
@@ -72,10 +72,10 @@ public class XPRewardsScript : MonoBehaviour
         tmp = 3;
         if (!Advertisement.isShowing)
         {
-            if (Advertisement.IsReady())
+            if (Advertisement.isInitialized)
             {
-                var options = new ShowOptions { resultCallback = HandleShowResult };
-                Advertisement.Show(RewardedPlacementId, options);
+                var options = new ShowOptions ();
+                Advertisement.Show(RewardedPlacementId, options,this);
 
                 //Advertisement.Show("rewardedVideo");
 
@@ -108,4 +108,44 @@ public class XPRewardsScript : MonoBehaviour
         }
     }
 
+    public void OnUnityAdsShowFailure(string placementId, UnityAdsShowError error, string message)
+    {
+      
+    }
+
+    public void OnUnityAdsShowStart(string placementId)
+    {
+       
+    }
+
+    public void OnUnityAdsShowClick(string placementId)
+    {
+        
+    }
+
+    public void OnUnityAdsShowComplete(string placementId, UnityAdsShowCompletionState showCompletionState)
+    {
+        if (placementId.Equals(RewardedPlacementId))
+        {
+            switch (showCompletionState) {
+                case UnityAdsShowCompletionState.COMPLETED:
+                    Debug.Log("The ad was successfully shown.");
+
+                    GlobalUserData.ActiveUser.XP += GivenXP;
+                    SaveDataToJSON.IsChanged = true;
+                    SaveDataToJSON.AutoSaveData();
+
+                    UpdateXP();
+                    UpdateUI();
+                    UpdateScreen.UpdateXp();
+                    break;
+                case UnityAdsShowCompletionState.SKIPPED:
+                    Debug.Log("The ad was skipped before reaching the end.");
+                    break;
+                case UnityAdsShowCompletionState.UNKNOWN:
+                    Debug.LogError("The ad failed to be shown.");
+                    break;
+            }
+        }
+    }
 }

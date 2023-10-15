@@ -2,10 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
 using UnityEngine.Advertisements;
-
-public class LevelSceneHandler : SceneHandler
+public class LevelSceneHandler : SceneHandler, IUnityAdsShowListener
 {
     public TipsPanelScript Tips;
     [Header("Debug area")]
@@ -162,10 +160,10 @@ public class LevelSceneHandler : SceneHandler
     {
         if (!Advertisement.isShowing)
         {
-            if (Advertisement.IsReady())
+            if (Advertisement.isInitialized)
             {
-                var options = new ShowOptions { resultCallback = HandleShowResult };
-                Advertisement.Show(RewardedPlacementId, options);
+                var options = new ShowOptions();
+                Advertisement.Show(RewardedPlacementId, options, this);
 
                 //Advertisement.Show("rewardedVideo");
 
@@ -196,6 +194,26 @@ public class LevelSceneHandler : SceneHandler
         //        Debug.LogError("The ad failed to be shown.");
         //        break;
         //}
+    }
+
+    public void OnUnityAdsShowFailure(string placementId, UnityAdsShowError error, string message)
+    {
+       
+    }
+
+    public void OnUnityAdsShowStart(string placementId)
+    {
+
+    }
+
+    public void OnUnityAdsShowClick(string placementId)
+    {
+       
+    }
+
+    public void OnUnityAdsShowComplete(string placementId, UnityAdsShowCompletionState showCompletionState)
+    {
+       
     }
 }
 
